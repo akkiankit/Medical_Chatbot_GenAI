@@ -1,0 +1,12 @@
+openai
+langchain
+langchain-pinecone 
+fsspec
+ctransformers
+sentence-transformers
+pypdf
+python-dotenv
+flask
+huggingface
+huggingface_hub
+llama-cpp-python
