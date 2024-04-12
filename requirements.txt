@@ -1,12 +1,12 @@
-openai
-langchain
+openai = 1.17.0
+langchain = 0.1.15
 langchain-pinecone 
-fsspec
-ctransformers
-sentence-transformers
-pypdf
-python-dotenv
-flask
-huggingface
-huggingface_hub
-llama-cpp-python
+fsspec = 2024.3.1
+ctransformers = 0.2.27
+sentence-transformers = 2.6.1
+pypdf = 4.2.0
+python-dotenv = 1.0.1
+flask = 3.0.3
+huggingface = 0.0.1
+huggingface_hub = 0.22.2
+llama-cpp-python=0.2.61 --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
